@@ -20,8 +20,20 @@ MyAppGUID=
 ; -------------------------------------------------------------------------------
 ; Add your variables below: 
 ; -------------------------------------------------------------------------------
-
-Actiontip=0
-Alarmtip=0
+Actiontip=1
+Alarmtip=1
 Appdrawertip=1
-Weathertip=0
+Assistanttip=1
+Batterytip=1
+Copytip=1
+Downloads=1
+Language=1
+Mailtip=1
+MONDtip=1
+Desktoptip=1
+Recenttip=1
+Searchtip=1
+Timetip=1
+Volumetip=1
+Weathertip=1
+Wifitip=1
