@@ -14,7 +14,7 @@
 MyAppID=ToolTipster-TheyCallMePapa
 MyAppName=ToolTipster
 MyAppAuthor=TheyCallMePapa
-MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Tool_Tipster-TheyCallMePapa\Variables\Variables.inc
+MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\ToolTipster-TheyCallMePapa\Variables\Variables.inc
 MyAppGUID=
 
 ; -------------------------------------------------------------------------------
