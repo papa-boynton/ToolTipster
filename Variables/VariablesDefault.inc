@@ -15,7 +15,7 @@ MyAppID=ToolTipster-TheyCallMePapa
 MyAppName=ToolTipster
 MyAppAuthor=TheyCallMePapa
 MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\ToolTipster-TheyCallMePapa\Variables\Variables.inc
-MyAppGUID=
+MyAppGUID=a55dddd9-e788-4503-a8ff-ca5017465a77
 
 ; -------------------------------------------------------------------------------
 ; Add your variables below: 
@@ -26,8 +26,8 @@ Appdrawertip=1
 Assistanttip=1
 Batterytip=1
 Copytip=1
-Downloads=1
-Language=1
+Downloadstip=1
+Languagetip=1
 Mailtip=1
 MONDtip=1
 Desktoptip=1
